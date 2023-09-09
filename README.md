@@ -50,7 +50,7 @@ In myVCS, we use the C++ programming language to build the code that manages ver
 4. Constructor: A constructor is like a builder's blueprint. It helps create new objects or structures. In myVCS, we use constructors to set up branches and commits when you start working on a project.
 
 So, in simple terms, myVCS is built using C++. It uses vectors to store information, pointers to keep track of the latest changes, and constructors to create the essential parts of the version control system. It's all about organizing and managing your project's history in a computer-friendly way.
-## Brownie Point (Stack)
+## Brownie Point (Stash)
 
 For the implemetation of Stash I made different features like 
 
