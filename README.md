@@ -1,6 +1,3 @@
-# VersionControlSystem (myVCS)
-This is a Version Control System like GIT that helps you keep track on simple versioning.
-
 # MyVCS (My Version Control System) 🚀
 
 ![Logo](https://imgs.search.brave.com/_2TMdT-MNkWsaOMEuI0GfY3X4tmFNntn7UuyB4YtIFY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9l/L2UwL0dpdC1sb2dv/LnN2Zw.svg)
